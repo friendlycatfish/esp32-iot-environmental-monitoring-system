@@ -27,7 +27,7 @@ Dự án tập trung vào việc phát triển một hệ thống giám sát mô
 Hệ thống sử dụng ESP32 làm bộ xử lý trung tâm, thu thập dữ liệu từ cảm biến qua bus I2C và điều khiển Servo qua tín hiệu PWM.
 
 ![System Block Diagram](images/system-block-diagram.jpg)
-![Sơ đồ nguyên lý mạch](đường_dẫn_ảnh_sơ_đồ_nguyên_lý_từ_mục_4.5)
+![Circuit Schematic](images/circuit-schematic.jpg)
 
 ## 4. Đặc điểm nổi bật (Key Features)
 * **Giám sát thời gian thực**: Theo dõi nhiệt độ, độ ẩm và ánh sáng trực tiếp tại thiết bị qua OLED và qua giao diện Web từ xa.
