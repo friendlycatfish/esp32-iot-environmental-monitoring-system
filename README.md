@@ -26,7 +26,7 @@ Dự án tập trung vào việc phát triển một hệ thống giám sát mô
 ## 3. Sơ đồ hệ thống (System Architecture)
 Hệ thống sử dụng ESP32 làm bộ xử lý trung tâm, thu thập dữ liệu từ cảm biến qua bus I2C và điều khiển Servo qua tín hiệu PWM.
 
-![Sơ đồ khối hệ thống](đường_dẫn_ảnh_sơ_đồ_khối_từ_mục_4.1)
+![System Block Diagram](images/system-block-diagram.png)
 ![Sơ đồ nguyên lý mạch](đường_dẫn_ảnh_sơ_đồ_nguyên_lý_từ_mục_4.5)
 
 ## 4. Đặc điểm nổi bật (Key Features)
