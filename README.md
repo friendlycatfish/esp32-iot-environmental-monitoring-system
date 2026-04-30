@@ -51,4 +51,4 @@ Thông qua dự án cá nhân này, em đã có cơ hội học hỏi và thực
 * Hiểu rõ cách triển khai một hệ thống IoT hoàn chỉnh từ thiết bị ngoại vi đến Cloud và người dùng cuối.
 
 ---
-*Để biết thêm chi tiết về thông số kỹ thuật và hướng dẫn lắp đặt, vui lòng xem [Báo cáo đồ án chi tiết (PDF)](docs/BAO-CAO-DO-AN-CHUAN.pdf)*
+*Để biết thêm chi tiết về thông số kỹ thuật và hướng dẫn lắp đặt, vui lòng xem [Báo cáo đồ án chi tiết (PDF)](docs/ESP32-IoT-Environmental-Monitoring-Report.pdf)*
