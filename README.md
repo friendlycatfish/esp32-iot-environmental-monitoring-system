@@ -41,7 +41,7 @@ Dự án tập trung vào việc phát triển một hệ thống giám sát mô
 
 | Mạch in chưa hàn | Mạch đã hàn linh kiện | Sản phẩm hoàn thiện |
 | :---: | :---: | :---: |
-| ![Bare_PCB](images/mach-chua-han.jpg) | ![Soldered_PCB](images/mach-da-han.jpg) | ![Final_Product](images/san-pham-hoan-thien.jpg) |
+| ![Bare_PCB](images/pre_soldered_pcb.jpg) | ![Soldered_PCB](images/soldered_pcb.jpg) | ![Final_Product](images/final_product.jpg) |
 | *Hình 3: Mạch in (PCB) thô chưa lắp linh kiện.* | *Hình 4: Mạch thực tế sau khi hàn lắp linh kiện dán (SMD).* | *Hình 5: Hệ thống hoàn chỉnh sau khi lắp đặt vào hộp nhựa kỹ thuật.* |
 
 ## 6. Bài học rút ra (Lessons Learned)
